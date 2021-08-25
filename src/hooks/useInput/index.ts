@@ -1,3 +1,3 @@
 import useInput from './useInput';
 
-export { useInput };
+export default useInput;

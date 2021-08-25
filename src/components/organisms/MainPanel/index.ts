@@ -1,3 +1,3 @@
 import MainPanel from './MainPanel';
 
-export { MainPanel };
+export default MainPanel;
