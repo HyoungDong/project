@@ -1,3 +1,5 @@
-import Button from './Button';
+import SideBarLink from './Buttons';
+import Logo from './Logo';
+import SearchForm from './SearchForm';
 
-export { Button };
+export { SideBarLink, Logo, SearchForm };
