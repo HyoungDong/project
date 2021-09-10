@@ -6,7 +6,6 @@ const Wrapper = styled.div`
   background: #232323;
   width: 100%;
   height: 13%;
-  padding-right: 100px;
   box-sizing: border-box;
 `;
 
