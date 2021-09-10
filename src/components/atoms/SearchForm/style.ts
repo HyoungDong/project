@@ -14,6 +14,9 @@ const Wrapper = styled.div`
   width: 200px;
   height: 50%;
   margin: 23px 0;
+  @media (max-width: 1024px) {
+    display: none;
+  }
 `;
 const Wrapper2 = styled.div`
   display: flex;

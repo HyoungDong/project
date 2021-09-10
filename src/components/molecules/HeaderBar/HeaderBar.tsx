@@ -1,11 +1,14 @@
 import React from 'react';
-import { SearchForm } from '../../atoms';
+import { LoginButton, SearchForm } from '../../atoms';
+import DropDownMenu from '../DropDownMenu';
 import { Wrapper } from './style';
 
 function HeaderBar() {
   return (
     <Wrapper>
       <SearchForm />
+      <LoginButton />
+      <DropDownMenu />
     </Wrapper>
   );
 }
